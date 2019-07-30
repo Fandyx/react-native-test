@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722358003023",
+    "firebase_url": "https://koombea-app-checkin.firebaseio.com",
+    "project_id": "koombea-app-checkin",
+    "storage_bucket": "koombea-app-checkin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722358003023:android:ace43ef0b48105fc",
+        "android_client_info": {
+          "package_name": "com.koombea.checkinsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722358003023-6mfj1ajhquvgnqg8tau8kkv28dr2rtrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koombea.checkinsapp",
+            "certificate_hash": "566fe5c47b30c2c7f49ba15653e5f4162d84bcf2"
+          }
+        },
+        {
+          "client_id": "722358003023-taap7e646ol6om6vt3fu8o1ev5g4k4pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy-Izyb3c6bwUqkChrHIuy_fzTVMp2N7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722358003023-taap7e646ol6om6vt3fu8o1ev5g4k4pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
